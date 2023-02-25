@@ -1,0 +1,15 @@
+.part {
+    align-self: center;
+    display: flex;
+    justify-content: space-between;
+}
+
+.summary {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.summary > h3 {
+    align-self: flex-end;
+}

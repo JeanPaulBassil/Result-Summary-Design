@@ -1,0 +1,9 @@
+.result {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+    background-color: red;
+    border-radius: 30px;
+}

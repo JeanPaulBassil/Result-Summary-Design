@@ -1,0 +1,10 @@
+.part {
+    display: flex;
+    justify-content: space-between;
+}
+
+.summary {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}

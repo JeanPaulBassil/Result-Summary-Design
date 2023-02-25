@@ -1,0 +1,30 @@
+.part {
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid rgba(0, 0, 0, .04);
+}
+
+.icon {
+    margin-right: 3px
+}
+
+.summary {
+    padding: 0 2rem;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.summary > h3 {
+    align-self: flex-start;
+}
+
+.part > div {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.red {
+
+}

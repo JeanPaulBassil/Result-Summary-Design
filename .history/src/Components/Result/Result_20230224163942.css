@@ -1,0 +1,16 @@
+.result {
+    display: grid;
+    grid-template-rows: 1fr 1fr 1fr;
+    align-items: center;
+    justify-items: center;
+    height: 100%;
+    width: 100%;
+    background-image: linear-gradient(to bottom,hsl(252, 100%, 67%));
+    border-radius: 30px;
+    color: white;
+}
+
+.result > h3 {
+    font-size: 23px;
+    color: #cbc4ff;
+}
